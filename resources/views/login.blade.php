@@ -21,7 +21,7 @@
         
         <button class="form-control button mt-5 text-center" type="submit" value="disabled">
             <span class="icon-arrow">
-                <img src="{{asset('../assets/img/icon-arrow.png')}}" alt="">
+                <img src="{{asset('../assets/icons/icon-arrow.png')}}" alt="">
             </span>
         </button>
         
